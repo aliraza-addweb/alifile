@@ -6,7 +6,7 @@
 4) Get local IP address
 5) Read one txt file from that content remove all vowels and write updated content in new file
 
-28/07/2021
+28/07/2021 Task
 1) Create one directory and make 3 .js files and make sure you can run all files just by specifying filename from browser using npm.
 2) Take two parameters from terminal and make sum and return the same.
 3) Try to take two textboxes and get those values and make sum and return the same
