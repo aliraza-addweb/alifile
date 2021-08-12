@@ -1,5 +1,9 @@
 # alifile
-04-08-2021 task
+05-08-2021 Task
+
+same task as it it 04-08-2021 but through terminal and make array
+
+04-08-2021 Task
 
 Take some student information from user -id -name -marks After taking 1st student’s data, ask the user if you want to continue entering the data or quit and then after display all student’s information.
 
