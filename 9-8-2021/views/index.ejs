@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <script src="value.js"></script> -->
+</head>
+
+<body>
+    <% if(typeof alert !='undefined' ) { %>
+        <% alert.forEach(function(error) { %>
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                <%= error.msg %>
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+            </div>
+            <% }) %>
+                <% } %>
+                    <form name="form1" id="form" method="post" action="/index" enctype="multipart/form-data">
+                        <table>
+                            <tr>
+                                <td>Enter name</td>
+                                <td><input type="text" name="fname"></td>
+                            </tr>
+                            <tr>
+                                <td>email</td>
+                                <td><input type="email" name="email"></td>
+                            </tr>
+                            <tr>
+                                <td>Mobile number</td>
+                                <td><input type="text" name="mobile"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2"><input type="submit" value="Save" onclick="clearr()"></td>
+                            </tr>
+                        </table>
+                    </form>
+                    <script>
+                        function clearr(){
+                            document.getElementsByName("email").value="";
+                            document.getElementsByName("mobile").value="";
+                            document.getElementsByName("fname").value="";
+                        }
+                        var n = prompt("How many:");
+                        for (let i = 1; i <= n; i++) {
+                            var form = document.getElementById("form");
+                        }
+                    </script>
+</body>
+
+</html>
