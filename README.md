@@ -1,4 +1,12 @@
 # alifile
+19-8-2021 Task
+
+Make one Component like header of a page and use accordingly
+Header should include
+--Icon at left
+--Text in the center
+--At right most just include 4 links for navigation
+
 16-8-2021 Task
 
 Store Entered form data into any of the database using node and ts
