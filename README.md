@@ -1,5 +1,10 @@
 # alifile
 
+24-8-2021 Task
+
+Complete friday’s task and upload on GIT
+then next apply validations like if name, number and email entered once, should not allow duplicate entry of any
+
 20-8-2021 Task
 
 Read and refer Event handling and state in React
