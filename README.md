@@ -1,4 +1,24 @@
 # alifile
+
+20-8-2021 Task
+
+Read and refer Event handling and state in React
+Create stepwise application like in
+Step 1 : Ask for personal information
+after pressing next from step 1, move to step 2 and onwards
+Step 2: Ask for hobbies
+Step 3: Ask for qualification
+
+And after taking all info . Display the same
+
+19-8-2021 Task
+
+Make one Component like header of a page and use accordingly
+Header should include
+--Icon at left
+--Text in the center
+--At right most just include 4 links for navigation
+
 16-8-2021 Task
 
 Store Entered form data into any of the database using node and ts
