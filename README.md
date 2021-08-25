@@ -1,4 +1,9 @@
 # alifile
+25-8-2021 Task
+
+Check whether one should use one state or multiple states to take form values
+Take three text boxes i.e. for name, number and email
+on click of submit display data immediate after submit but while entering another data no duplicates should be allowed in any of the field
 
 24-8-2021 Task
 
