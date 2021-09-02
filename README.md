@@ -1,4 +1,12 @@
 # alifile
+31-8-2021 Task
+
+useContext
+hooks with local storage
+hooks with react router
+Data fetching using hooks
+writing custom hooks
+
 27-8-2021 Task
 
 Read routing and apply practically in one of your react app
