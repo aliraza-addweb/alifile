@@ -1,4 +1,11 @@
 # alifile
+1-9-2021 Task
+
+hooks with react router with all four hooks
+Introduction to Redux
+createAction
+dispatch
+
 31-8-2021 Task
 
 useContext
