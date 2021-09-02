@@ -1,4 +1,10 @@
 # alifile
+27-8-2021 Task
+
+Read routing and apply practically in one of your react app
+Read on Composition vs Inheritance
+Read on Styled Components and Emotion
+
 25-8-2021 Task
 
 Check whether one should use one state or multiple states to take form values
