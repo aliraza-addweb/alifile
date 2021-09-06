@@ -1,4 +1,10 @@
 # alifile
+
+2-9-2021 Task
+
+we can work on
+Perform practical on createslice and configurestore
+
 1-9-2021 Task
 
 hooks with react router with all four hooks
